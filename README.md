@@ -6,7 +6,7 @@ Hey Guys, I'm Altafur Rahman Jisan 😊.
 - 🕸️ Experience in web scraping and data manipulation to devise solutions for various problems, leveraging technology to solve real-life challenges.
 - 📚 Constantly learning new technologies with the help of GitHub, Stack Overflow, Reddit, and YouTube.
 
-##Technical Skills:
+## Technical Skills:
 | **Back-end**             | **Programming Languages** | **Front-end**           |
 |--------------------------|--------------------------|-------------------------|
 | - Laravel                 | - PHP                     | - HTML                   |
@@ -16,6 +16,25 @@ Hey Guys, I'm Altafur Rahman Jisan 😊.
 | - Flask                   | - DART                    | - Blade template         |
 | - CodeIgniter             |                          | - Tailwind CSS           |
 | - Flutter (in progress)   |                          | - Bootstrap              |
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+  }
+  th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+  }
+</style>
+
   
 ## Available in:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jisanar/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/JisanAr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16667282/jisan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JisanAR03) 
