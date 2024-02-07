@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Assign Issues
-        uses: JisanAR03/BLT-Action@test
+        uses: OWASP/BLT-Action@main
         with:
             repo-token: ${{ secrets.GITHUB_TOKEN }}
             repository: ${{ github.repository }}
