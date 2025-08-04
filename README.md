@@ -2,7 +2,7 @@
 Hey Guys, I'm Jisan (Altafur Rahman)😊.
 
 ## Passionate about:
-- 🖥️ Working with Django, Flask, Laravel, Python, and JavaScript for execution tools.
+- 🖥️ Working with Django, Flask, Laravel, Python,PHP, Langchain, Langgraph and JavaScript for execution tools.
 - 🕸️ Experience in web scraping and data manipulation to devise solutions for various problems, leveraging technology to solve real-life challenges.
 - 📚 Constantly learning new technologies with the help of GitHub, Stack Overflow, Reddit, and YouTube. 
 
