@@ -1,36 +1,141 @@
-# 💫 About Me:
-Hey Guys, I'm Jisan (Altafur Rahman)😊.
+<div align="center">
 
-## Passionate about:
-- 🖥️ Working with Django, Flask, Laravel, Python,PHP, Langchain, Langgraph and JavaScript for execution tools.
-- 🕸️ Experience in web scraping and data manipulation to devise solutions for various problems, leveraging technology to solve real-life challenges.
-- 📚 Constantly learning new technologies with the help of GitHub, Stack Overflow, Reddit, and YouTube. 
+# Jisan (Altafur Rahman)
 
-## Technical Skills:
-**Programming Languages** : <br/>
-------![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)<br/>
-**Back-end Tech** :<br/>
-------![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <br/>
-**Front-end Tech** : <br/>
-------![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2338B2AC.svg?style=for-the-badge&logo=react-css&logoColor=white) <br/>
-**Database** :  <br/>
-------![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br/>
-**Deployment Stack** :   <br/>
-------![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+### Full-Stack Developer • Systems Thinker • Problem Solver
 
-## Available in:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jisanar/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/JisanAr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16667282/jisan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JisanAR03)
+<p>
+I build products, workflows, and systems that survive real-world chaos.
+</p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JisanAR03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JisanAR03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JisanAR03&theme=midnight-purple&hide_border=false)
+<p>
+  <a href="https://linkedin.com/in/jisanar/">LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/~01c8980f2a01106e98?mp_source=share">Upwork</a>
+</p>
 
-## **Interests:**
-✈️ Traveling,🎮 Gaming,🍿 Watching Anime,🔍 Exploring technology and 🏍️ Riding.
+</div>
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JisanAR03&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+## / about_me
 
+I’m a developer focused on turning unclear ideas into clean, working systems.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Over the years, I’ve worked across different products, clients, and problem spaces — building applications, automating workflows, integrating AI, handling messy data, and making systems more reliable than they were yesterday.
+
+I like difficult problems.  
+The kind where the docs are vague, the deadline is real, the edge cases are hiding in the dark, and the solution needs more than “just write some code.”
+
+That’s usually where I do my best work.
+
+---
+
+## / what_i_do
+
+> I turn complexity into systems people can actually use.
+
+That usually includes:
+
+- building full-stack applications from idea to deployment
+- designing automation that removes repetitive work
+- shaping AI-powered workflows around practical use cases
+- solving scraping, data, and backend-heavy challenges
+- cleaning up fragile systems before they become expensive problems
+- finding simple solutions to problems that pretend to be complicated
+
+---
+
+## / current_mode
+
+Right now, I’m most interested in work that involves:
+
+- system design that stays clean as projects grow
+- workflow architecture and execution logic
+- AI-assisted products that solve practical problems
+- debugging ugly issues that nobody wants to touch
+- improving maintainability, clarity, and delivery speed
+
+In other words:  
+**less “look what I used,” more “look what I solved.”**
+
+---
+
+## / stack
+
+**Core**  
+`Python` `PHP` `JavaScript` `Dart`
+
+**Application Development**  
+`Django` `Flask` `Laravel` `React` `Tailwind CSS` `Bootstrap` `jQuery`
+
+**AI / Automation**  
+`LangChain` `LangGraph` `Workflow Design` `Execution Systems`
+
+**Data / Backend**  
+`Web Scraping` `Data Processing` `REST APIs` `PostgreSQL` `MySQL` `SQLite`
+
+**Infrastructure**  
+`Linux` `Git` `Docker` `Nginx` `Apache` `DigitalOcean`
+
+---
+
+## / engineering_style
+
+I prefer systems that are:
+
+- clean enough to extend
+- practical enough to ship
+- reliable enough to trust
+- simple enough to debug
+- flexible enough to evolve
+
+I’m not attached to complexity.  
+If a problem can be solved with elegance instead of noise, I’ll choose elegance every time.
+
+---
+
+## / a_little_honest_truth
+
+Most people collect tools.  
+I prefer collecting solved problems.
+
+Yes, stacks matter.  
+But when something breaks at 2:13 AM, nobody says:
+
+> “Thank God, this developer knows 14 frameworks.”
+
+They want someone who can think clearly, move fast, and fix the thing properly.
+
+That’s the part I enjoy.
+
+---
+
+## / github_signal
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JisanAR03&theme=transparent&hide_border=true&layout=compact)
+
+![](https://streak-stats.demolab.com?user=JisanAR03&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+## / outside_the_terminal
+
+When I’m not building things, I’m usually somewhere between:
+
+- exploring new tech
+- traveling
+- gaming
+- watching anime
+- overthinking ideas that eventually turn into projects
+
+---
+
+<div align="center">
+
+### Building with modern tools. Solving with real engineering.
+
+</div>
