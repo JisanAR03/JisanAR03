@@ -220,7 +220,7 @@ Outside work, I’m usually busy with one of these:
 
 <p><strong>Side effects may include:</strong></p>
 
-- opening too many tabs
+- opening too many tabs 
 - thinking about product ideas at odd hours
 - turning random curiosity into actual builds
 
